@@ -1,0 +1,246 @@
+1.	Aguafina Script 
+2.	Alex Brush
+3.	Allison 
+4.	Allura
+5.	Annie Use Your Telescope
+6.	Architects Daughter
+7.	Are You Serious
+8.	Arizonia
+9.	Babylonica
+10.	Bad Script
+11.	Ballet 
+12.	Beau Rivage
+13.	Beth Ellen
+14.	Bilbo
+15.	Bilbo Swash Caps
+16.	Birthstone
+17.	Birthstone Bounce
+18.	Bonbon
+19.	Bonheur Royale
+20.	Borel
+21.	Butterfly Kids
+22.	Calligraffitti
+23.	Caramel
+24.	Carattere
+25.	Caveat
+26.	Caveat Brush
+27.	Cedarville Cursive
+28.	Charm
+29.	Charmonman
+30.	Cherish
+31.	Chilanka
+32.	Clicker Script
+33.	Comforter
+34.	Comforter Brush
+35.	Comic Neue
+36.	Coming Soon
+37.	Condiment
+38.	Cookie
+39.	Corinthia
+40.	Courgette
+41.	Covered By Your Grace
+42.	Crafty Girls
+43.	Damion
+44.	Dancing Script
+45.	Dawning of a New Day
+46.	Dekko
+47.	Delicious Handrawn
+48.	Delius
+49.	Delius Swash Caps
+50.	Delius Unicase
+51.	Devonshire
+52.	Dr Sugiyama
+53.	Dynalight
+54.	Edu NSW ACT Foundation
+55.	Edu QLD Beginner
+56.	Edu SA Beginner
+57.	Edu TAS Beginner 
+58.	Edu VIC WA NT Beginner
+59.	Engagement
+60.	Englebert
+61.	Ephesis
+62.	Estonia
+63.	Euphoria Script
+64.	Farsan
+65.	Fasthand
+66.	Festive
+67.	Flavors
+68.	Fleur De Leah
+69.	Fondamento
+70.	Freehand
+71.	Fuggles
+72.	Galada
+73.	Give You Glory
+74.	Glass Antiqua
+75.	Gloria Hallelujah
+76.	Gluten
+77.	Gochi Hand
+78.	Grand Hotel
+79.	Grandiflora One
+80.	Grandstander
+81.	Grape Nuts
+82.	Great Vibes
+83.	Grechen Fuemen
+84.	Grey Qo
+85.	Gwendolyn
+86.	Hachi Maru Pop 
+87.	Handlee
+88.	Herr Von Muellerhoff
+89.	Homemade Apple
+90.	Hurricane
+91.	Imperial Script
+92.	Indie Flower
+93.	Ingrid Darling
+94.	Inspiration
+95.	Island Moments
+96.	Italianno
+97.	Itim
+98.	Jim Nightshade 
+99.	Julee
+100.	Junge
+101.	Just Another Hand 
+102.	Just Me Again Down Here
+103.	Kalam
+104.	Kaushan Script
+105.	Kavivanar
+106.	Kings
+107.	Klee One
+108.	Kolker Brush
+109.	Kristi
+110.	La Belle Aurore
+111.	Lavishly Yours
+112.	League Script
+113.	Leckerli One
+114.	Lemonada
+115.	Licorice
+116.	Liu Jian Mao Cao
+117.	Long Cang
+118.	Love Light
+119.	Love Ya Like A Sister
+120.	Loved by the King
+121.	Lovers Quarrel
+122.	Luckiest Guy
+123.	Lugrasimo
+124.	Lumanosimo
+125.	Luxurious Script
+126.	Ma Shan Zheng
+127.	Macondo
+128.	Macondo Swash Caps
+129.	Mali
+130.	Marck Script
+131.	Mea Culpa
+132.	Meddon
+133.	MedievalSharp
+134.	Meie Script
+135.	Meow Script
+136.	Merienda
+137.	Miniver
+138.	Miss Fajardose
+139.	Molle
+140.	Monsieur La Doulaise
+141.	MonteCarlo
+142.	Montez
+143.	Moon Dance
+144.	Mr Bedfort
+145.	Mr Dafoe
+146.	Mr De Haviland 
+147.	Mrs Saint Delafield
+148.	Mrs Sheppards
+149.	Ms Madi
+150.	My Soul
+151.	Mynerve
+152.	Nanum Brush Script 
+153.	Nanum Pen Script
+154.	Neonderthaw
+155.	Nerko One
+156.	Neucha
+157.	Niconne
+158.	Norican
+159.	Nothing You Could Do
+160.	Ole
+161.	Oooh Baby
+162.	Oregano
+163.	Over the Rainbow
+164.	Pacifico
+165.	Pangolin
+166.	Parisienne
+167.	Passions Conflict
+168.	Patrick Hand
+169.	Patrick Hand SC
+170.	Permanent Marker 
+171.	Petemoss
+172.	Petit Formal Script
+173.	Pinyon Script 
+174.	Playball
+175.	Playpen Sans
+176.	Praise
+177.	Princess Sofia
+178.	Puppies Play
+179.	Qwigley
+180.	Qwitcher Grypen
+181.	Rancho
+182.	Ranga
+183.	Redacted Script
+184.	Redressed
+185.	Reenie Beanie
+186.	Rochester
+187.	Rock Salt
+188.	Romanesco
+189.	Rosarivo
+190.	Rouge Script
+191.	Ruge Boogie
+192.	Ruthie
+193.	Sacramento
+194.	Salsa
+195.	Sarina
+196.	Sassy Frass
+197.	Satisfy
+198.	Schoolbell
+199.	Seaweed Script 
+200.	Sedgwick Ave
+201.	Sedgwick Ave Display
+202.	Send Flowers
+203.	Sevillana
+204.	Shadows Into Light
+205.	Shadows Into Light Two
+206.	Shalimar 
+207.	Shantell Sans
+208.	Short Stack
+209.	Single Day
+210.	Slackside One
+211.	Smooch
+212.	Sofia
+213.	Solitreo
+214.	Splash 
+215.	Square Peg
+216.	Sriracha
+217.	Stalemate
+218.	Style Script
+219.	Sue Ellen Francisco
+220.	Sunshiney
+221.	Swanky and Moo Moo
+222.	Tangerine
+223.	The Girl Next Door
+224.	The Nautigal
+225.	Twinkle Star
+226.	UnifrakturCook
+227.	UnifrakturMaguntia
+228.	Unkempt
+229.	Updock
+230.	Vibur
+231.	Vujahday Script 
+232.	Waiting for the Sunrise
+233.	Walter Turncoat
+234.	Warnes 
+235.	Water Brush
+236.	Waterfall
+237.	Whisper
+238.	WindSong
+239.	Yellowtail 
+240.	Yesteryear
+241.	Yomogi
+242.	Yuji Hentaigana Akari 
+243.	Yuji Hentaigana Akebono 
+244.	Zen Loop
+245.	Zeyada
+246.	Zhi Mang Xing
